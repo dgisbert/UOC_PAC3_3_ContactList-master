@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Contacts</string>
+
+    <!-- Widget strings    -->
+
+    <string name="TXT00001">Contact photo</string>
+    <string name="TXT00002">Phone</string>
+    <string name="TXT00003">Mail</string>
+    <string name="TXT00004">City</string>
+    <string name="TXT00005">Description</string>
+    <string name="TXT00006">Make a call</string>
+    <string name="TXT00007">Send e-mail</string>
+
+
+</resources>
